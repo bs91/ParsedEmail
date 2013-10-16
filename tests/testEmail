@@ -1,0 +1,207 @@
+Delivered-To: xxblakefailxx@gmail.com
+Received: by 10.112.135.69 with SMTP id pq5csp148955lbb;
+        Sun, 22 Sep 2013 15:00:26 -0700 (PDT)
+X-Received: by 10.224.120.74 with SMTP id c10mr19990392qar.13.1379887226311;
+        Sun, 22 Sep 2013 15:00:26 -0700 (PDT)
+Return-Path: <0000014147b01a0e-d3caeac1-3220-41fd-96a0-ff6c5be41113-000000@amazonses.com>
+Received: from a10-59.smtp-out.amazonses.com (a10-59.smtp-out.amazonses.com. [54.240.10.59])
+        by mx.google.com with ESMTP id l3si1298678qae.146.1969.12.31.16.00.00;
+        Sun, 22 Sep 2013 15:00:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 0000014147b01a0e-d3caeac1-3220-41fd-96a0-ff6c5be41113-000000@amazonses.com designates 54.240.10.59 as permitted sender) client-ip=54.240.10.59;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 0000014147b01a0e-d3caeac1-3220-41fd-96a0-ff6c5be41113-000000@amazonses.com designates 54.240.10.59 as permitted sender) smtp.mail=0000014147b01a0e-d3caeac1-3220-41fd-96a0-ff6c5be41113-000000@amazonses.com;
+       dkim=pass header.i=@coursera.org
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+  s=dnkypy6vrtp6eik6p2aszn3t5yznsvsj; d=coursera.org; t=1379887225;
+  h=From:To:Subject:MIME-Version:Content-Type:Date:Message-ID;
+  bh=pG5HLJGKaCTXyDvmkEj2pkKD03NcQJS6OOkQlcPQkI8=;
+  b=b0vVhQY86r/SuGMTFrI0/94tDtUo+N8zjtay+sVnoh8x1dTH6Yj0vzVdSbW8XRvf
+  BFcDdmrEpkl0TdyfplPzRnercIUzIwivgku7L8att6BzC7QlhY+LHCZ3qPnKfKKb4dj
+  CgSNZ16Q8UnRIIRZ2ioc1DbR6ZAQ5MLOTKOI1g70=
+Return-Path: 0000014147b01a0e-d3caeac1-3220-41fd-96a0-ff6c5be41113-000000@amazonses.com
+From: Introduction to Logic | Coursera Staff <noreply@coursera.org>
+To: Blake A Smith <xxblakefailxx@gmail.com>
+Subject: Welcome to Introduction to Logic!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+  boundary="----=_Part_650755_578040587.1379887225361"
+Date: Sun, 22 Sep 2013 22:00:25 +0000
+Message-ID: <0000014147b01a0e-d3caeac1-3220-41fd-96a0-ff6c5be41113-000000@email.amazonses.com>
+X-SES-Outgoing: 2013.09.22-54.240.10.59
+
+------=_Part_650755_578040587.1379887225361
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+/* Client-specific Styles */
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" butt=
+on. */
+body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width=
+:100%;} /* Force Hotmail to display emails at full width */
+body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from chang=
+ing default text sizes. */
+/* Reset Styles */
+body{margin:0; padding:0;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:=
+none;}
+table td{border-collapse:collapse;}
+#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !i=
+mportant;}
+p {margin-top: 14px; margin-bottom: 14px;}
+/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: PREHEADER /\/\/\/\/\/\/\/\/\/\ */
+.preheaderContent div a:link, .preheaderContent div a:visited, /* Yahoo! Ma=
+il Override */ .preheaderContent div a .yshortcuts /* Yahoo! Mail Override =
+*/{
+  color: #3b6e8f;
+  font-weight:normal;
+  text-decoration:underline;
+}
+.mainContent a:link, a:visited{
+  color:#336699;
+}
+/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: FOOTER LINKS /\/\/\/\/\/\/\/\/\/\=
+ */
+.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Ove=
+rride */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+  /*@editable*/ color:#336699;
+  /*@editable*/ font-weight:normal;
+  /*@editable*/ text-decoration:underline;
+}Blake A Smith,
+Read what your instructor(s) from Introduction to Logic on Coursera has to =
+say today.[https://www.coursera.org/?utm_classid=3D971129&amp;utm_nottype=
+=3Dclass.welcome.before&amp;utm_notid=3D-1&amp;utm_linknum=3D0]Thank you fo=
+r signing up for Introduction to Logic[https://www.coursera.org/course/intr=
+ologic?utm_classid=3D971129&amp;utm_nottype=3Dclass.welcome.before&amp;utm_=
+notid=3D-1&amp;utm_linknum=3D1]! You are pioneering a novel form of online =
+learning, and we hope that you will join us in taking this adventure togeth=
+er. We'll notify you again when the class starts. We're looking forward to =
+our journey together!Your course staff
+Introduction to Logic
+Stanford University
+Stay in touchView Course Info[https://www.coursera.org/course/intrologic?ut=
+m_classid=3D971129&amp;utm_nottype=3Dclass.welcome.before&amp;utm_notid=3D-=
+1&amp;utm_linknum=3D2][http://www.facebook.com/Coursera][https://twitter.co=
+m/coursera][http://blog.coursera.org/?utm_classid=3D971129&amp;utm_nottype=
+=3Dclass.welcome.before&amp;utm_notid=3D-1&amp;utm_linknum=3D5][https://plu=
+s.google.com/111950594039269281469/posts] =E2=80=A2  Visit support[http://h=
+elp.coursera.org/?utm_classid=3D971129&amp;utm_nottype=3Dclass.welcome.befo=
+re&amp;utm_notid=3D-1&amp;utm_linknum=3D7] =E2=80=A2  Please do not reply d=
+irectly to this email
+------=_Part_650755_578040587.1379887225361
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta content=3D"=
+text/html; charset=3DUTF-8" http-equiv=3D"Content-Type"/></head><body><styl=
+e>/* Client-specific Styles */
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" butt=
+on. */
+body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width=
+:100%;} /* Force Hotmail to display emails at full width */
+body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from chang=
+ing default text sizes. */
+/* Reset Styles */
+body{margin:0; padding:0;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:=
+none;}
+table td{border-collapse:collapse;}
+#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !i=
+mportant;}
+p {margin-top: 14px; margin-bottom: 14px;}
+/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: PREHEADER /\/\/\/\/\/\/\/\/\/\ */
+.preheaderContent div a:link, .preheaderContent div a:visited, /* Yahoo! Ma=
+il Override */ .preheaderContent div a .yshortcuts /* Yahoo! Mail Override =
+*/{
+  color: #3b6e8f;
+  font-weight:normal;
+  text-decoration:underline;
+}
+.mainContent a:link, a:visited{
+  color:#336699;
+}
+/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: FOOTER LINKS /\/\/\/\/\/\/\/\/\/\=
+ */
+.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Ove=
+rride */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+  /*@editable*/ color:#336699;
+  /*@editable*/ font-weight:normal;
+  /*@editable*/ text-decoration:underline;
+}</style><center><table id=3D"backgroundTable" height=3D"100%" style=3D"bac=
+kground-color: #efefef;" width=3D"100%" cellpadding=3D"0" border=3D"0" cell=
+spacing=3D"0"><tr><td align=3D"center" valign=3D"top"><table style=3D"borde=
+r: 0; background-color: #efefef; padding-left: 20px; padding-right: 20px;" =
+width=3D"640" cellpadding=3D"0" border=3D"0" cellspacing=3D"0"><table style=
+=3D"border: 0; background-color: #ffffff; margin-top: 0;" width=3D"600" cel=
+lpadding=3D"0" border=3D"0" cellspacing=3D"0"><tr><td height=3D"60" style=
+=3D"font-size: 12px; color: #787878; font-family: Arial; padding: 10px 30px=
+ 10px 0;" width=3D"400" align=3D"left" valign=3D"middle" bgcolor=3D"#efefef=
+"><b><span style=3D"color: #454545;">Blake A Smith,</span></b><br/>Read wha=
+t your instructor(s) from Introduction to Logic on Coursera has to say toda=
+y.</td><td height=3D"60" style=3D"padding: 10px 0 10px 30px; text-align: ri=
+ght;" width=3D"200" align=3D"left" valign=3D"middle" bgcolor=3D"#efefef"><d=
+iv style=3D"font-size: 14px; letter-spacing: 1px; font-weight: bold; color:=
+ #787878;"><a target=3D"_blank" href=3D"https://www.coursera.org/?utm_class=
+id=3D971129&amp;utm_nottype=3Dclass.welcome.before&amp;utm_notid=3D-1&amp;u=
+tm_linknum=3D0"><img style=3D"width: 130px; height: 19px;" alt=3D"coursera =
+logo" src=3D"http://coursera-newsletter.s3.amazonaws.com/logo_150_newslette=
+r.png"/></a></div></td></tr></table><table style=3D"border: 1px solid #dddd=
+dd; background-color: #ffffff;" width=3D"600" cellpadding=3D"0" border=3D"0=
+" cellspacing=3D"0"><tr><td class=3D"mainContent" colspan=3D"2" style=3D"pa=
+dding: 30px 30px 0 30px; font-family: Arial; color: #444444; font-size: 14p=
+x; line-height: 1.5em;" align=3D"left" valign=3D"top"><div style=3D"font-si=
+ze: 14px; line-height: 1.6em; color: #444444; text-align: left;"><p>Thank y=
+ou for signing up for <a style=3D"color: #3b6e8f;" target=3D"_blank" href=
+=3D"https://www.coursera.org/course/intrologic?utm_classid=3D971129&amp;utm=
+_nottype=3Dclass.welcome.before&amp;utm_notid=3D-1&amp;utm_linknum=3D1">Int=
+roduction to Logic</a>! You are pioneering a novel form of online learning,=
+ and we hope that you will join us in taking this adventure together.</p><p=
+> We'll notify you again when the class starts. We're looking forward to ou=
+r journey together!</p></div></td></tr><tr><td height=3D"80" style=3D"font-=
+family: Arial; color: #444444; font-size: 14px; line-height: 1.5em; padding=
+: 20px 30px 0 30px;" width=3D"598"><p>Your course staff<br/>Introduction to=
+ Logic<br/>Stanford University<br/></p></td></tr><tr><td colspan=3D"2" styl=
+e=3D"padding: 30px;"><table style=3D"padding: 10px; background-color: #dddd=
+dd; font-family: Arial;" width=3D"100%"><tr><td style=3D"width: 400px; colo=
+r: #666666; font-size: 16px;">Stay in touch</td><td style=3D"width: 168px; =
+font-size: 14px; font-weight: bold; padding: 8px;" align=3D"center"><div st=
+yle=3D"width: 150px; height: 100%; color: #ffffff; background-color: #7FBF4=
+D; border: 1px solid #63A62F; border-bottom: 1px solid #5B992B; background-=
+image: linear-gradient(top, #7FBF4D, #63A62F); -webkit-border-radius: 3px; =
+-moz-border-radius: 3px; border-radius: 3px; line-height: 1; padding: 7px 0=
+ 8px 0; text-align: center; -webkit-box-shadow: inset 0 1px 0 0 #96ca6d; -m=
+oz-box-shadow: inset 0 1px 0 0 #96ca6d; box-shadow: inset 0 1px 0 0 #96ca6d=
+; text-shadow: 0 -1px 0 #4c9021;"><a style=3D"padding: 10px; text-decoratio=
+n: none; color: #ffffff;" href=3D"https://www.coursera.org/course/intrologi=
+c?utm_classid=3D971129&amp;utm_nottype=3Dclass.welcome.before&amp;utm_notid=
+=3D-1&amp;utm_linknum=3D2">View Course Info</a></div></td></tr></table></td=
+></tr></table><table style=3D"background-color: #efefef; border: 0; border-=
+bottom: 0; margin-top: 20px;" width=3D"600" cellpadding=3D"0" border=3D"0" =
+cellspacing=3D"0"><tr><td style=3D"vertical-align: top; text-align: center;=
+"><div><a style=3D"margin: 0 7px;" target=3D"_blank" rel=3D"nofollow" href=
+=3D"http://www.facebook.com/Coursera"><img height=3D"24" style=3D"border: n=
+one; width: 24px; height: 24px; opacity: 0.6;" alt=3D"facebook" width=3D"24=
+" src=3D"https://dt5zaw6a98blc.cloudfront.net/site-static/images/footer/fac=
+ebook.png"/></a><a style=3D"margin: 0 7px;" target=3D"_blank" rel=3D"nofoll=
+ow" href=3D"https://twitter.com/coursera"><img height=3D"24" style=3D"borde=
+r: none; width: 24px; height: 24px; opacity: 0.6;" alt=3D"twitter" width=3D=
+"24" src=3D"https://dt5zaw6a98blc.cloudfront.net/site-static/images/footer/=
+twitter.png"/></a><a style=3D"margin: 0 7px;" target=3D"_blank" rel=3D"nofo=
+llow" href=3D"http://blog.coursera.org/?utm_classid=3D971129&amp;utm_nottyp=
+e=3Dclass.welcome.before&amp;utm_notid=3D-1&amp;utm_linknum=3D5"><img heigh=
+t=3D"24" style=3D"border: none; width: 24px; height: 24px; opacity: 0.6;" a=
+lt=3D"blog" width=3D"24" src=3D"https://dt5zaw6a98blc.cloudfront.net/site-s=
+tatic/images/footer/blog.png"/></a><a style=3D"margin: 0 7px;" target=3D"_b=
+lank" rel=3D"nofollow" href=3D"https://plus.google.com/11195059403926928146=
+9/posts"><img height=3D"24" style=3D"border: none; width: 24px; height: 24p=
+x; opacity: 0.6;" alt=3D"blog" width=3D"24" src=3D"https://dt5zaw6a98blc.cl=
+oudfront.net/site-static/images/footer/googleplus.png"/></a></div></td></tr=
+><tr><td class=3D"footerContent" style=3D"color: #707070; font-family: Aria=
+l; font-size: 12px; line-height: 125%; text-align: center; padding: 20px 0;=
+"><div> =E2=80=A2  Visit <a style=3D"color: #3b6e8f;" target=3D"_blank" rel=
+=3D"nofollow" href=3D"http://help.coursera.org/?utm_classid=3D971129&amp;ut=
+m_nottype=3Dclass.welcome.before&amp;utm_notid=3D-1&amp;utm_linknum=3D7"><s=
+pan class=3D"yshortcuts">support</span></a> =E2=80=A2  Please do not reply =
+directly to this email</div></td></tr></table></table></td></tr></table></c=
+enter></body></html>
+------=_Part_650755_578040587.1379887225361--
